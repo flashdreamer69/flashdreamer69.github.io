@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" width="44" height="44">
+	<defs>
+		<image width="44" height="44" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAADb0lEQVRYR+2XT0wTQRTGp0C1UItoxT9Ir4QEk3rSwBFD1NijhiOJkYg3C8eSEBN7RDxqMCQcRb1pgiFytNGTJJIYrkVECQZKWqrF6n6vvM243W27s9soyb6EhN2dnf3N9773ZuoTByx8B4xX6MCfz9z+/b/Dn/3y2OcB1zNLnsL1VBdzewp7ChsU8CzBgjS0Ngv/uYgofEyLYmbXNae4qnDLYK8IXI6KwJXzZYD5+Q8i/3pJ5J6mHMG7AgzAo/duiMZImGB+vF0RP1MrOlhjZ1gErkZFQ2uL+JXeFNsTzwQWoBKOgdumhgSUBQgggsOX6P+NgftlVsC40GiMFpadfkPgdsMRMMMizZmJOQKE0oC2AoK3j83cEYf7upSglYFhg+MzI+TJrfisLhSA2hfGScXN6w/IHnL4eyIi/CJOt2CR7zcf2bKHEjCgTr5P7qc+WZZVqBd+PkrPv15M6M+hfGjsGt0H6AltDEIeU80iSsD4MFJvpiB/EOojCzuTL0VheZVAoS58vnV3luwDT8NWyFCt3UMJuH0hQem0UgYZaB7so0VxWHWHU++SYk9THIuvJZSAO9ZKvss+WSSvom0hDvV2iSZc77c3BsBYWMAsuHDXOkZq4bV/WmN/ms1ezOS0nW2VejBsUFhOawVY8vB6d8mvxgiNxTS7xChbyEK1sK0wA6OH7mlAiOL2LsEZA0pDQbwDGFl5uXvgeaV6kOdVBq7UjgCGDQJFxQH1s9OL+jV83qQVIWARGwNJ00UbRbANjA+d/jRF1Y8/qxTjPlSEz4O3+gnMLO280dTNwwBBZUMxqMKBhbQ9HKJWBntkNMtw2rl9wUbYAeUwm6uSj20rjMm4UGTfYaOAisadD+M5K1iA3L7kejAuxApaCRgeRfWjIwCA02plE3ycFySnHnNgrm8XEjWfmZWAZZXRY2EDM2VllYxZ4f5rZhPXLcET8vaL6/XueEWVOP3IAjYa+LraIs3AlRVmb3KhwZ84E1g1f/YxihXbugosvukImBVAuoPD/QSCDpGfX9J/cfi0e/6eTs02UTr8AHhn8lVZt6hkA/mZK8CYEMVzROu38LPxLIHnUD43lyJQJz9KXQOWVQAwDkEcbv5yrgtwrelVGecBq6hm5x1PYTtqqYz1FFZRzc47nsJ21FIZ+5fCKhP8i3f+ABuCSEuGa+IqAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="top">
+		<g id="left_side">
+			<g id="buttons_social media">
+				<use id="Dribbble" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" width="44" height="44">
+	<defs>
+		<image width="44" height="44" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAABc0lEQVRYR2NkGGKAcYi5lwHuYMvw6f8Hu+OPr8xkHHUwLWNpNIRpGbogs0dDeDSE0UJgNEkM2SShqiDCkBxszGCkJcXAw80O9seXrz8Zsps3M9x+8IZsf9EkSdiZKjJ0FLtjdVRO0yaGc9eeDR4H83CxM6ybHAUPVXSXDToHYwvdQ6fvM9x++Bbs9m0HbzI8f/158IRwcogJAwjDwMptlxgmLjpGtgPRNVI9DaM7eO6aMwwgTC0wMh0MKsJ4udjAgehpr87gDcQwsBWYZrcDMQzcevCW4cu3n2QHOFVCeEqdH7i8JQa4Jc0fWg62iphBjL9wqqFrCINquPiKNQPv4Pw4KwZQOgYBSVFeMIYBUJkLK3dBDqa0iKNKCCMH2WixhpaARkN4NEmMJgm0EBhNEqNJAi0EQI0gQ6SG0Hlg/42SPhzNG/AUNRSI0Ez1ioMIOylSMupgioKPCM2jIUxEIFGkZDSEKQo+IjQP7RAmwoODQgkAKbc6PIhTfa8AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="top">
+		<g id="left_side">
+			<g id="buttons_social media">
+				<use id="Fb" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+			</g>
+		</g>
+	</g>
+</svg>
