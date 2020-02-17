@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat|Fira+Sans:400,500,700&display=swap&subset=cyrillic');
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+    font-family: 'Fira Sans', sans-serif;
+    color: black;
+}
+
+.navbar-brand img {
+    width: 60px;
+    height: 60px;
+}
+
+.navbar-nav li {
+    padding-right: 20px;
+}
+
+.nav-link {
+    font-size: 1.5rem !important
+}
+
+.header {
+    height: 550px;
+    background: url("../bootcher/img/bg.jpg") no-repeat center;
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-color: cornsilk;
+    text-align: center;
+}
+
+.display-2 {
+    color:coral;
+}
+
+.lead {
+    margin-top: 35px;
+    font-size: 25px;
+    display: inline-block;
+}
+
+.main {
+    padding-top: 50px;
+    align-items: center;
+}
+
+.alert {
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 2em;
+}
+
+.alert hr {
+    border-top: 2px solid grey;
+    width: 95%;
+    margin-top: 0.3em;
+    margin-bottom: 1em;
+}
+
+.card-text {
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+    text-align: center;
+}
+
+footer {
+    margin-top: 30px;
+    background-color: skyblue;
+    padding-top: 30px;
+    padding-bottom: 1em;
+    border-top: 4px solid silver;
+    color: black;
+}
+
+.social {
+    margin-top: 10px;
+}
+
+.social a {
+    margin-top: 10px;
+    font-size: 1.5em;
+    padding: 20px;
+}
+
+.fa-vk:hover {
+    color: black;
+}
+
+.btn a {
+    color: white;
+    margin-bottom: 1px;
+}
+
+.btn a:hover {
+    text-decoration: none;
+}
