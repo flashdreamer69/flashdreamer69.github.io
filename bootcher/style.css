@@ -30,6 +30,10 @@ html {
     text-align: center;
 }
 
+.display-2 {
+    color:coral;
+}
+
 .lead {
     margin-top: 35px;
     font-size: 25px;
