@@ -31,7 +31,8 @@ html {
 }
 
 .display-2 {
-    color:coral;
+    color:lightcoral;
+    text-shadow: 1px 1px 10px black;
 }
 
 .lead {
@@ -41,9 +42,11 @@ html {
 }
 
 .main {
-    padding-top: 50px;
+    padding-top: 30px;
     align-items: center;
+    font-size: 20px;
 }
+
 
 .alert {
     width: 75%;
@@ -60,8 +63,19 @@ html {
 
 .card-text {
     font-family: 'Caveat', cursive;
-    font-size: 20px;
+    font-size: 22px;
     text-align: center;
+}
+
+@media (max-width: 768px) {
+    .card-text {
+        font-size: 35px;
+    }
+    
+    .photo {
+        margin-top: 40px;
+    }
+    
 }
 
 footer {
